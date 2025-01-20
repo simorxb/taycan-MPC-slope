@@ -1,6 +1,6 @@
 # Model Predictive Control - Porsche Taycan - Slope
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://github.com/simorxb/taycan-MPC-slope)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=simorxb/taycan-MPC-slope)
 
 ## Summary
 This project demonstrates the application of Model Predictive Control (MPC) to regulate the speed of a Porsche Taycan model under the influence of road slope disturbances. The primary goal is to test the robustness of the MPC algorithm when subjected to constant disturbances, such as varying road slopes, and evaluate its performance in achieving smooth control with minimal overshoot.
